@@ -1,0 +1,86 @@
+aid: exscientia
+name: Exscientia
+description: >-
+  Exscientia was an Oxford UK-based AI-driven precision medicine and drug
+  design company, founded in 2012 as a spin-out from the University of Dundee.
+  Its platform combined generative chemistry (Centaur Chemist) with patient
+  tissue-based screening (EVE, an automated single-cell platform for testing
+  drug candidates directly against patient-derived tumor samples) to design
+  small-molecule drug candidates faster and at lower cost than conventional
+  pharma R&D. Notable firsts included EXS-21546 (an A2A antagonist developed
+  with Evotec), DSP-1181 (the first AI-designed molecule to enter human
+  clinical trials, with Sumitomo Dainippon Pharma), and DSP-0038 (a dual
+  5-HT1A/5-HT2A modulator for Alzheimer's psychosis). Exscientia maintained
+  active pharma partnerships with Sanofi, Bristol Myers Squibb, Bayer,
+  Sumitomo, and Merck KGaA. Exscientia was acquired by Recursion
+  Pharmaceuticals (NASDAQ: RXRX) in an all-stock deal that closed in
+  November 2024; the combined company operates under the Recursion brand and
+  the legacy exscientia.ai website now redirects to recursion.com. The
+  Exscientia name persists primarily through its GitHub organization, which
+  continues to host open-source scientific Python packages for molecular
+  predictive modelling (molflux), physics-based ML potentials (physicsml),
+  antibody structure prediction (abodybuilder3), and biomolecular simulation
+  (biosimspace) used by the wider computational chemistry and structural
+  biology community. Exscientia did not expose any public commercial APIs,
+  SDKs, or developer products before or after the merger; platform access was
+  always delivered through collaborative drug-discovery agreements.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Drug Discovery
+  - Drug Design
+  - AI Drug Design
+  - Precision Medicine
+  - Biotech
+  - Pharmaceuticals
+  - Generative Chemistry
+  - Centaur Chemist
+  - EVE Platform
+  - Patient-Derived Screening
+  - Oncology
+  - Small Molecules
+  - Computational Chemistry
+  - Machine Learning
+  - Open Source
+  - Acquired
+url: https://raw.githubusercontent.com/api-evangelist/exscientia/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.recursion.com
+  - type: LegacyWebsite
+    url: https://www.exscientia.ai
+  - type: AcquisitionAnnouncement
+    url: https://ir.recursion.com/news-releases/news-release-details/recursion-and-exscientia-combine-create-leading-techbio-company
+  - type: AcquisitionClosing
+    url: https://ir.recursion.com/news-releases/news-release-details/recursion-completes-business-combination-exscientia
+  - type: ParentCompany
+    url: https://www.recursion.com
+  - type: GitHubOrganization
+    url: https://github.com/Exscientia
+  - type: Molflux
+    url: https://github.com/Exscientia/molflux
+  - type: PhysicsML
+    url: https://github.com/Exscientia/physicsml
+  - type: ABodyBuilder3
+    url: https://github.com/Exscientia/abodybuilder3
+  - type: BioSimSpace
+    url: https://github.com/Exscientia/biosimspace
+  - type: StableNetGuardOwl
+    url: https://github.com/Exscientia/StableNetGuardOwl
+  - type: RDVC
+    url: https://github.com/Exscientia/rdvc
+  - type: Wikipedia
+    url: https://en.wikipedia.org/wiki/Exscientia
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/exscientia
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/exscientialtd
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
