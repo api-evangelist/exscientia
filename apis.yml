@@ -55,7 +55,7 @@ tags:
   - Drug Design
   - AI Drug Design
   - Precision Medicine
-  - Biotech
+  - Biotechnology
   - Pharmaceuticals
   - Generative Chemistry
   - Centaur Chemist
@@ -64,8 +64,8 @@ tags:
   - Oncology
   - Small Molecule
   - Computational Chemistry
-  - Machine-Learning
-  - Open-Source
+  - Machine Learning
+  - Open Source
   - Acquired
 tags_raw:
   - Drug Discovery
@@ -84,6 +84,8 @@ tags_raw:
   - Machine Learning
   - Open Source
   - Acquired
+  - Machine-Learning
+  - Open-Source
 url: https://raw.githubusercontent.com/api-evangelist/exscientia/refs/heads/main/apis.yml
 created: '2026-05-24'
 modified: '2026-05-24'
