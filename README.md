@@ -1,4 +1,4 @@
-# exscientia
+# Exscientia
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,6 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Exscientia — AI-driven drug design (Centaur Chemist, EVE patient-derived tumor screening), Oxford UK. Acquired by Recursion Pharmaceuticals (NASDAQ: RXRX) in November 2024; the combined company now operates under the Recursion brand and exscientia.ai redirects to recursion.com. The Exscientia GitHub org remains active, publishing open-source scientific Python packages (molflux, physicsml, abodybuilder3, biosimspace) for computational chemistry and structural biology.
+Exscientia was an Oxford UK-based AI-driven precision medicine and drug design company, founded in 2012 as a spin-out from the University of Dundee. Its platform combined generative chemistry (Centaur Chemist) with patient tissue-based screening (EVE, an automated single-cell platform for testing drug candidates directly against patient-derived tumor samples) to design small-molecule drug candidates faster and at lower cost than conventional pharma R&D. Notable firsts included EXS-21546 (an A2A antagonist developed with Evotec), DSP-1181 (the first AI-designed molecule to enter human clinical trials, with Sumitomo Dainippon Pharma), and DSP-0038 (a dual 5-HT1A/5-HT2A modulator for Alzheimer's psychosis). Exscientia maintained active pharma partnerships with Sanofi, Bristol Myers Squibb, Bayer, Sumitomo, and Merck KGaA. Exscientia was acquired by Recursion Pharmaceuticals (NASDAQ: RXRX) in an all-stock deal that closed in November 2024; the combined company operates under the Recursion brand and the legacy exscientia.ai website now redirects to recursion.com. The Exscientia name persists primarily through its GitHub organization, which continues to host open-source scientific Python packages for molecular predictive modelling (molflux), physics-based ML potentials (physicsml), antibody structure prediction (abodybuilder3), and biomolecular simulation (biosimspace) used by the wider computational chemistry and structural biology community. Exscientia did not expose any public commercial APIs, SDKs, or developer products before or after the merger; platform access was always delivered through collaborative drug-discovery agreements.
 
-No public commercial APIs or developer products — platform access was always delivered through collaborative drug-discovery agreements with pharma partners.
+**Areas:** Drug Discovery · Drug Design · AI Drug Design · Precision Medicine · Biotechnology · Pharmaceuticals · Generative Chemistry · Centaur Chemist · EVE Platform · Patient-Derived Screening · Oncology · Small Molecule
+
+## Exscientia on APIs.io
+
+Everything profiled for Exscientia is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/exscientia/](https://apis.io/providers/exscientia/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Exscientia Domain Security](https://apis.io/security/exscientia/exscientia-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.recursion.com)
+- [Blog](https://www.recursion.com/press)
+- [GitHub](https://github.com/Exscientia)
+
+## API Evangelist rating
+
+**Kin Score 4.5** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.4** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/exscientia/](https://apis.io/providers/exscientia/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Exscientia: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/exscientia/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
